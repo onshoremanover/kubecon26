@@ -6,3 +6,8 @@
 - [Apple Containers](apple-containers.md)
 - [OpenCost](opencost.md)
 - [Konveyor AI (Kai)](konveyor-ai.md)
+- [ContainerSSH](containerssh.md)
+- [Kubeflow](kubeflow.md)
+- [Katib](katib.md)
+- [Kairos](kairos.md)
+- [Energy Monitoring with MicroK8s, Prometheus and Grafana](energy-monitoring-microk8s.md)
