@@ -11,3 +11,4 @@
 - [Katib](katib.md)
 - [Kairos](kairos.md)
 - [Energy Monitoring with MicroK8s, Prometheus and Grafana](energy-monitoring-microk8s.md)
+- [Presentation Slides](slides.md)
